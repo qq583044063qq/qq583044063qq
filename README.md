@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/qq583044063qq/qq583044063qq/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
 
