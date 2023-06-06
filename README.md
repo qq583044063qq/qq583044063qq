@@ -53,10 +53,6 @@ Visual Studio            5 mins              ██░░░░░░░░░�
 Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/qq583044063qq/qq583044063qq/main/assets/bar_graph.png)
-
-
- Last Updated on 06/06/2023 07:12:19 UTC
+ Last Updated on 06/06/2023 07:16:37 UTC
 <!--END_SECTION:waka-->
