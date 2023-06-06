@@ -18,4 +18,45 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2058%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.7%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 233.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 31 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 55 mins             ███████████████████████░░   90.79 % 
+C#                       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+
+🔥 Editors: 
+VS Code                  55 mins             ███████████████████████░░   90.79 % 
+Visual Studio            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+
+💻 Operating System: 
+Windows                  1 hr                █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/qq583044063qq/qq583044063qq/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/06/2023 07:12:19 UTC
 <!--END_SECTION:waka-->
