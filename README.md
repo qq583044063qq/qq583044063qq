@@ -18,9 +18,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.7%20thousand%20lines%20of%20code-blue)
 
@@ -42,20 +42,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       6 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
-Blazor                   5 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.93 % 
-CSHTML                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Binary                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+C#                       8 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.58 % 
+Blazor                   5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Binary                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+CSHTML                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 🔥 Editors: 
-Visual Studio            14 hrs 27 mins      ███████████████████████░░   91.82 % 
-VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Visual Studio            17 hrs 12 mins      ███████████████████████░░   90.93 % 
+VS Code                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 💻 Operating System: 
-Windows                  15 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/06/2023 18:33:35 UTC
+ Last Updated on 20/06/2023 18:33:31 UTC
 <!--END_SECTION:waka-->
