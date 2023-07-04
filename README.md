@@ -18,9 +18,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.7%20thousand%20lines%20of%20code-blue)
 
@@ -42,20 +42,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       9 hrs 17 mins       █████████████████░░░░░░░░   68.01 % 
-Binary                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Vue.js                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+C#                       9 hrs 22 mins       ███████████████░░░░░░░░░░   60.96 % 
+TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Binary                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Vue.js                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-Visual Studio            11 hrs 39 mins      █████████████████████░░░░   85.22 % 
-VS Code                  2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Visual Studio            11 hrs 35 mins      ███████████████████░░░░░░   75.45 % 
+VS Code                  3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
 
 💻 Operating System: 
-Windows                  13 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2023 18:36:32 UTC
+ Last Updated on 04/07/2023 18:38:38 UTC
 <!--END_SECTION:waka-->
