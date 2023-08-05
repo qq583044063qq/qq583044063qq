@@ -18,7 +18,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -42,17 +42,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       20 hrs 31 mins      ████████████████████████░   95.23 % 
-Binary                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+C#                       16 hrs 40 mins      ████████████████████████░   94.39 % 
+Binary                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Blazor                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Visual Studio            21 hrs 32 mins      █████████████████████████   100.00 % 
+Visual Studio            17 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/08/2023 18:33:28 UTC
+ Last Updated on 05/08/2023 18:33:32 UTC
 <!--END_SECTION:waka-->
