@@ -18,7 +18,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,15 +42,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       5 hrs 2 mins        █████████████████████████   98.13 % 
+XAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Binary                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GDScript3                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            5 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/10/2023 18:33:23 UTC
+ Last Updated on 08/10/2023 18:33:32 UTC
 <!--END_SECTION:waka-->
