@@ -18,6 +18,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.7%20thousand%20lines%20of%20code-blue)
@@ -34,6 +36,25 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 06/12/2023 18:35:23 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C#                       15 hrs 27 mins      ████████████████░░░░░░░░░   64.85 % 
+Razor                    3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Binary                   3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+
+🔥 Editors: 
+Visual Studio            23 hrs 49 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  23 hrs 49 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/12/2023 18:35:32 UTC
 <!--END_SECTION:waka-->
