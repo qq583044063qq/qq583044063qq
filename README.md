@@ -18,9 +18,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.7%20thousand%20lines%20of%20code-blue)
 
@@ -42,20 +42,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       16 hrs 54 mins      ██████████████████████░░░   87.34 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Binary                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Razor                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+C#                       19 hrs 12 mins      ███████████████████████░░   92.16 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Binary                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Razor                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Visual Studio            19 hrs 18 mins      █████████████████████████   99.73 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Visual Studio            20 hrs 46 mins      █████████████████████████   99.75 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  19 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/01/2024 18:33:18 UTC
+ Last Updated on 01/02/2024 18:34:03 UTC
 <!--END_SECTION:waka-->
