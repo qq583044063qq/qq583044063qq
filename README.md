@@ -42,17 +42,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.98 % 
-JSON                     1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   40.88 % 
-Binary                   32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 hrs 58 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/02/2024 18:34:48 UTC
+ Last Updated on 11/02/2024 18:33:22 UTC
 <!--END_SECTION:waka-->
