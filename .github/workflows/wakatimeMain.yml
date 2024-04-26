@@ -10,10 +10,10 @@ jobs:
     name: Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Fr4nk1inCs/wakatime-charts@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
           SHOW_LINES_OF_CODE: "True"
