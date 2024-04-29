@@ -20,43 +20,44 @@
 
 ![baimeng.png](mahiro.png)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-905.0%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 234.0 kB Used in GitHub's Storage
+> 📦 240.9 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 8 Public Repositories 
  > 
-> 🔑 6 Private Repositories
+> 🔑 6 Private Repositories 
  > 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       17 hrs 42 mins      ███████████████████░░░░░░   75.92 % 
-HTML                     3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Binary                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+C#                       17 hrs 21 mins      █████████████████░░░░░░░░   69.59 % 
+HTML                     3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Binary                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Visual Studio            19 hrs 39 mins      █████████████████████░░░░   84.28 % 
-VS Code                  3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Visual Studio            19 hrs 31 mins      ████████████████████░░░░░   78.28 % 
+VS Code                  5 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 
 💻 Operating System: 
-Windows                  23 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
- Last Updated on 26/04/2024 08:16:45 UTC
+
+ Last Updated on 29/04/2024 18:35:04 UTC
 <!--END_SECTION:waka-->
