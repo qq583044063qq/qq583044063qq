@@ -30,8 +30,6 @@
 
 > 📦 241.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -57,5 +55,5 @@ Windows                  12 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 19/05/2024 18:34:02 UTC
+ Last Updated on 20/05/2024 18:35:49 UTC
 <!--END_SECTION:waka-->
