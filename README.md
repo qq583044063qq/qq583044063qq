@@ -20,8 +20,6 @@
 
 ![baimeng.png](mahiro.png)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-905.0%20thousand%20lines%20of%20code-blue)
@@ -30,31 +28,14 @@
 
 > 📦 241.0 kB Used in GitHub's Storage 
  > 
+> 🏆 17 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C#                       6 hrs 26 mins       ██████████████████████░░░   87.30 % 
-Binary                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔥 Editors: 
-Visual Studio            7 hrs 23 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/07/2024 18:36:39 UTC
+ Last Updated on 24/07/2024 18:40:26 UTC
 <!--END_SECTION:waka-->
