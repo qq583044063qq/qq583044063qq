@@ -16,6 +16,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![B站status](https://stats.justsong.cn/api/bilibili/?id=3931848&lang=zh-CN&theme=dark)
+
 ![mahiroshuiyi.jpg](assets/mahiroshuiyi.jpg)
 
 ![baimeng.png](mahiro.png)
