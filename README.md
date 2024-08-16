@@ -62,4 +62,4 @@ Windows                  14 hrs 36 mins      ███████████�
  Last Updated on 15/08/2024 18:39:14 UTC
 <!--END_SECTION:waka-->
 
-[个人](https://blog.ayatsukinora.org.cn)。
+[个人网站](https://blog.ayatsukinora.org.cn)
