@@ -32,8 +32,6 @@
 
 > 📦 241.0 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -46,22 +44,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       3 hrs 50 mins       ████████████████████████░   95.66 % 
-Binary                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            3 hrs 56 mins       ████████████████████████░   97.98 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2024 18:39:19 UTC
+ Last Updated on 07/10/2024 18:41:24 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
