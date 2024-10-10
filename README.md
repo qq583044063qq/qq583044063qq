@@ -22,7 +22,7 @@
 
 ![baimeng.png](mahiro.png)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -31,8 +31,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 241.0 kB Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,19 +44,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       5 hrs 48 mins       █████████████████████████   99.96 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C#                       11 hrs 14 mins      █████████████████████████   99.98 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 49 mins       █████████████████████████   100.00 % 
+Visual Studio            11 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/10/2024 18:42:13 UTC
+ Last Updated on 10/10/2024 18:42:30 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
