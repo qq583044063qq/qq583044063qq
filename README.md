@@ -22,6 +22,8 @@
 
 ![baimeng.png](mahiro.png)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-905.3%20thousand%20lines%20of%20code-blue)
@@ -36,8 +38,27 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 22/10/2024 18:42:05 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C#                       11 hrs 11 mins      ██████████████████████░░░   88.43 % 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Binary                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+Visual Studio            12 hrs 38 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  12 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 23/10/2024 18:42:15 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
