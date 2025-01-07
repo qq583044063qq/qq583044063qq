@@ -2,8 +2,6 @@
 
 ![sese](xx.gif)
 
-<video muted src="xx.mp4" loop width="100%" autoplay></video>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FDE&width=435&lines=Ciallo%ef%bd%9e(%e2%88%a0%e3%83%bb%cf%89%3c+)%e2%8c%92%e2%98%85)](https://git.io/typing-svg)
 
 ![:name](https://count.getloli.com/get/@hk416?theme=rule34)
