@@ -20,7 +20,7 @@
 ![xx](xx.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,7 +57,7 @@ Windows                  8 hrs 43 mins       ███████████�
 ```
 
 
- Last Updated on 21/01/2025 18:41:58 UTC
+ Last Updated on 22/01/2025 18:42:29 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
