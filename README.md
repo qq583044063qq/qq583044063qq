@@ -20,7 +20,7 @@
 ![xx](xx.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -29,8 +29,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 252.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +42,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 34 mins       ████████████████████████░   96.96 % 
+C#                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 34 mins       ████████████████████████░   96.96 % 
+Visual Studio            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/02/2025 18:38:20 UTC
+ Last Updated on 09/02/2025 18:38:21 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
