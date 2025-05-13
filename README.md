@@ -20,9 +20,9 @@
 ![xx](xx.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C563%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-905.4%20thousand%20lines%20of%20code-blue)
 
@@ -44,17 +44,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 hrs 19 mins       ██████████████████████░░░   88.16 % 
+Binary                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            2 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/05/2025 18:47:04 UTC
+ Last Updated on 13/05/2025 18:45:48 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
