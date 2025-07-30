@@ -20,8 +20,6 @@
 ![xx](xx.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-905.4%20thousand%20lines%20of%20code-blue)
@@ -38,23 +36,8 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   20 hrs 47 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 47 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  20 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/07/2025 18:55:38 UTC
+ Last Updated on 30/07/2025 18:52:57 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
