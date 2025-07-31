@@ -20,7 +20,9 @@
 ![xx](xx.gif)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C818%20hrs%201%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-905.4%20thousand%20lines%20of%20code-blue)
 
@@ -28,16 +30,34 @@
 
 > 📦 252.1 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 30/07/2025 18:52:57 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   13 hrs 43 mins      █████████████████░░░░░░░░   67.32 % 
+C#                       4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+XAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Binary                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 43 mins      █████████████████░░░░░░░░   67.32 % 
+Visual Studio            6 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+
+💻 Operating System: 
+Windows                  20 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 31/07/2025 18:53:16 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
