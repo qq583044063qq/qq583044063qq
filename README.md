@@ -20,15 +20,17 @@
 ![xx](xx.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C843%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C848%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-993.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-993.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 258.0 kB Used in GitHub's Storage 
+> 📦 258.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,22 +44,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       7 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.48 % 
-XAML                     6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.76 % 
-Binary                   2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+C#                       9 hrs 34 mins       ██████████████░░░░░░░░░░░   54.00 % 
+XAML                     5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Binary                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Visual Studio            16 hrs 26 mins      █████████████████████████   98.95 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Visual Studio            17 hrs 20 mins      ████████████████████████░   97.82 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Windows                  16 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/08/2025 18:50:44 UTC
+ Last Updated on 13/08/2025 18:49:17 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
