@@ -20,8 +20,6 @@
 ![xx](xx.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C122%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-995.0%20thousand%20lines%20of%20code-blue)
@@ -38,28 +36,8 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   12 hrs 46 mins      █████████████████░░░░░░░░   67.02 % 
-C#                       5 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Binary                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 53 mins      █████████████████░░░░░░░░   67.67 % 
-Visual Studio            6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-
-💻 Operating System: 
-Windows                  19 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 15/11/2025 18:43:38 UTC
+ Last Updated on 16/11/2025 18:43:53 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
