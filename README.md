@@ -17,7 +17,7 @@
 
 ![B站status](https://stats.justsong.cn/api/bilibili/?id=3931848&lang=zh-CN)
 
-![xx](xx.gif)
+<!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C161%20hrs%208%20mins-blue)
