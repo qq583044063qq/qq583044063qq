@@ -44,22 +44,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 7 mins       █████████████████░░░░░░░░   68.47 % 
-C#                       4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Binary                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-XML                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   15 hrs 21 mins      █████████████████░░░░░░░░   69.65 % 
+C#                       3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+JSON                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Binary                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+XML                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 35 mins      ██████████████████░░░░░░░   70.40 % 
-Visual Studio            7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+VS Code                  15 hrs 49 mins      ██████████████████░░░░░░░   71.83 % 
+Visual Studio            6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.17 % 
 
 💻 Operating System: 
-Windows                  24 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/03/2026 18:54:28 UTC
+ Last Updated on 08/03/2026 18:55:55 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
