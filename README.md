@@ -20,7 +20,7 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,22 +44,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       16 hrs 31 mins      █████████████████░░░░░░░░   69.56 % 
-Binary                   4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-XAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+C#                       15 hrs 43 mins      ██████████████████░░░░░░░   72.38 % 
+Binary                   4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+XAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Visual Studio            22 hrs 53 mins      ████████████████████████░   96.34 % 
-VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Visual Studio            21 hrs 30 mins      █████████████████████████   99.03 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Windows                  23 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2026 19:05:44 UTC
+ Last Updated on 14/03/2026 19:01:41 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
