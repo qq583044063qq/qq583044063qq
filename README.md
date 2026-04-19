@@ -20,6 +20,8 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C512%20hrs%2028%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.06%20million%20lines%20of%20code-blue?style=flat)
@@ -57,7 +59,7 @@ Windows                  18 hrs 8 mins       ███████████�
 ```
 
 
- Last Updated on 18/04/2026 19:12:36 UTC
+ Last Updated on 19/04/2026 19:11:53 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
