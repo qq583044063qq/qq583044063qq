@@ -20,7 +20,7 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C532%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 259.0 kB Used in GitHub's Storage 
+> 📦 262.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -38,26 +38,8 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C#                       23 hrs 39 mins      ███████████████████████░░   92.96 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Binary                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-
-🔥 Editors: 
-Visual Studio            25 hrs 26 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  25 hrs 26 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/04/2026 19:47:36 UTC
+ Last Updated on 24/04/2026 19:25:36 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
