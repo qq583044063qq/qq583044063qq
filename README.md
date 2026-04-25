@@ -38,8 +38,26 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/04/2026 19:25:36 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C#                       21 hrs 43 mins      ███████████████████████░░   92.16 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Binary                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+
+🔥 Editors: 
+Visual Studio            23 hrs 34 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  23 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/04/2026 19:15:18 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
