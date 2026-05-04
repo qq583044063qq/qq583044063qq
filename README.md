@@ -44,21 +44,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       17 hrs 53 mins      ██████████████████████░░░   88.96 % 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Binary                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-HTTP                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+C#                       13 hrs 40 mins      ██████████████████████░░░   89.82 % 
+Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+HTTP                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Binary                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Visual Studio            20 hrs 6 mins       █████████████████████████   100.00 % 
+Visual Studio            15 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/05/2026 19:31:36 UTC
+ Last Updated on 04/05/2026 20:00:03 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
