@@ -20,11 +20,11 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C562%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,17 +44,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       4 hrs 2 mins        █████████████████░░░░░░░░   67.29 % 
+Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Binary                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+HTTP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            4 hrs 44 mins       ████████████████████░░░░░   79.08 % 
+Unknown Editor           40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+VS Code                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2026 19:50:55 UTC
+ Last Updated on 09/05/2026 19:38:32 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
