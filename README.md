@@ -20,7 +20,7 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C573%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C579%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,23 +44,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       10 hrs 42 mins      ███████████████░░░░░░░░░░   61.11 % 
-Binary                   2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-HTTP                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+C#                       15 hrs 13 mins      ████████████████░░░░░░░░░   65.27 % 
+Binary                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+HTTP                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Visual Studio            14 hrs 56 mins      █████████████████████░░░░   85.26 % 
-VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Unknown Editor           40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Visual Studio            20 hrs 8 mins       ██████████████████████░░░   86.39 % 
+VS Code                  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Unknown Editor           40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Windows                  17 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2026 20:15:32 UTC
+ Last Updated on 14/05/2026 20:11:15 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
