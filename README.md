@@ -20,15 +20,15 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C694%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C699%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 266.8 kB Used in GitHub's Storage 
+> 📦 267.0 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -44,22 +44,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       12 hrs 21 mins      █████████████████░░░░░░░░   67.06 % 
-Binary                   2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-XML                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+C#                       13 hrs 14 mins      ███████████████░░░░░░░░░░   60.28 % 
+Binary                   3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+XML                      3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 25 mins      ██████████████░░░░░░░░░░░   56.58 % 
-VS Code                  8 hrs               ███████████░░░░░░░░░░░░░░   43.42 % 
+Visual Studio            12 hrs 39 mins      ██████████████░░░░░░░░░░░   57.65 % 
+VS Code                  9 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
 
 💻 Operating System: 
-Windows                  18 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 21:23:40 UTC
+ Last Updated on 17/06/2026 20:33:37 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
