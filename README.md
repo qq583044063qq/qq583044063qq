@@ -20,7 +20,7 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C738%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C739%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 269.7 kB Used in GitHub's Storage 
+> 📦 272.9 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -44,22 +44,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       5 hrs 41 mins       ██████████████░░░░░░░░░░░   54.89 % 
-Binary                   2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-XML                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+C#                       3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
+Binary                   1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+XML                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 9 mins        ███████████████░░░░░░░░░░   59.37 % 
-Visual Studio            4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
+Visual Studio            3 hrs 55 mins       █████████████░░░░░░░░░░░░   51.09 % 
+VS Code                  3 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.91 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/07/2026 19:59:48 UTC
+ Last Updated on 09/07/2026 20:14:52 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
