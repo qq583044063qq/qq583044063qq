@@ -40,8 +40,51 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 31/07/2026 20:00:04 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+C#                       3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+JSON                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 41 mins      ████████████████████░░░░░   81.60 % 
+Visual Studio            3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+
+💻 Operating System: 
+Windows                  21 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 25 mins (80.39%)
+
+✍️ 41,269 lines written by AI, 44 lines written by hand (99.89% AI-written)
+
+🔤 367,504,992 Input Tokens, 1,548,943 Output Tokens
+
+💵 $1771.53 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 236 AI Prompts
+
+GPT                      42,247 lines        █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 14,846 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
+```
+
+
+ Last Updated on 01/08/2026 19:40:36 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
