@@ -20,17 +20,17 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C913%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C918%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 278.1 kB Used in GitHub's Storage 
+> 📦 279.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -46,46 +46,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       13 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.59 % 
-TypeScript               5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Binary                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+C#                       11 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.45 % 
+TypeScript               9 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.20 % 
+CSS                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   36.53 % 
-Visual Studio            10 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.24 % 
-VS Code                  7 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+VS Code                  11 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   39.87 % 
+Visual Studio            8 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Codex Vscode             8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
 
 💻 Operating System: 
-Windows                  28 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 2 mins (60.07%)
+⏱ AI Coding Time: 15 hrs 3 mins (52.29%)
 
-✍️ 26,772 lines written by AI, 2,579 lines written by hand (91.21% AI-written)
+✍️ 19,016 lines written by AI, 2,900 lines written by hand (86.77% AI-written)
 
-🔤 11,556,048 Input Tokens, 1,556,218 Output Tokens
+🔤 9,079,865 Input Tokens, 1,311,083 Output Tokens
 
-💵 $489.45 Estimated AI Cost This Week
+💵 $285.28 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 57 AI Prompts
+🧠 18 AI Sessions, 64 AI Prompts
 
-GPT                      25,049 lines        ███████████████████████░░   90.93 % 
-Deepseek                 2,500 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+GPT                      18,919 lines        █████████████████████████   98.06 % 
+Deepseek                 374 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.21% of written lines came from AI
-📚 Verbose Prompter — average 13,701 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.49% of changed lines were hand-edited
+🤖 AI-Driven — 86.77% of written lines came from AI
+📚 Verbose Prompter — average 11,646 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 14.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 20:35:28 UTC
+ Last Updated on 07/09/2026 21:38:41 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
