@@ -20,9 +20,9 @@
 <!--![xx](xx.gif)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C941%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C944%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-256%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,7 +30,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 280.2 kB Used in GitHub's Storage 
+> 📦 280.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -46,46 +46,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 18 mins      █████████████░░░░░░░░░░░░   50.45 % 
-C#                       7 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-JSON                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-JavaScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Binary                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+C#                       10 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   38.67 % 
+TypeScript               9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
+JSON                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JavaScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Binary                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 50 mins      ██████████████░░░░░░░░░░░   55.85 % 
-Visual Studio            8 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Codex Vscode             4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+VS Code                  11 hrs 41 mins      ███████████░░░░░░░░░░░░░░   44.01 % 
+Visual Studio            10 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   40.62 % 
+Codex Vscode             4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 
 💻 Operating System: 
-Windows                  28 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 4 mins (42.56%)
+⏱ AI Coding Time: 10 hrs 38 mins (40.05%)
 
-✍️ 3,260 lines written by AI, 1,683 lines written by hand (65.95% AI-written)
+✍️ 3,259 lines written by AI, 1,513 lines written by hand (68.29% AI-written)
 
-🔤 3,704,795 Input Tokens, 1,088,987 Output Tokens
+🔤 4,122,990 Input Tokens, 961,873 Output Tokens
 
-💵 $291.19 Estimated AI Cost This Week
+💵 $282.12 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 109 AI Prompts
+🧠 22 AI Sessions, 101 AI Prompts
 
-GPT                      2,633 lines         ████████████████████░░░░░   79.16 % 
+GPT                      2,632 lines         ████████████████████░░░░░   79.16 % 
 Deepseek                 693 lines           █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.95% of written lines came from AI
-📚 Verbose Prompter — average 6,065 characters per prompt
+🤖 AI-Driven — 68.29% of written lines came from AI
+📚 Verbose Prompter — average 6,650 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 39.93% of changed lines were hand-edited
+🚀 High AI Trust — 37.79% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 20:59:53 UTC
+ Last Updated on 14/09/2026 21:56:21 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
