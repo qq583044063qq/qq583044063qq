@@ -46,46 +46,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
-TypeScript               3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TypeScript               1 hr 47 mins        ███████████░░░░░░░░░░░░░░   45.42 % 
+C#                       1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Python                   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
-Codex Vscode             3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
-VS Code                  2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Codex Vscode             1 hr 58 mins        ████████████░░░░░░░░░░░░░   49.94 % 
+Visual Studio            1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
 
 💻 Operating System: 
-Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 49 mins (51.03%)
+⏱ AI Coding Time: 3 hrs 6 mins (78.59%)
 
-✍️ 1,550 lines written by AI, 1,147 lines written by hand (57.47% AI-written)
+✍️ 805 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,712,610 Input Tokens, 227,183 Output Tokens
+🔤 885,412 Input Tokens, 134,253 Output Tokens
 
-💵 $36.63 Estimated AI Cost This Week
+💵 $5.20 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 167 AI Prompts
+🧠 10 AI Sessions, 103 AI Prompts
 
-GPT                      1,614 lines         █████████████████████████   100.00 % 
+GPT                      867 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.47% of written lines came from AI
-📚 Verbose Prompter — average 9,300 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,993 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 44.82% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 00:12:53 UTC
+ Last Updated on 06/10/2026 22:43:44 UTC
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
