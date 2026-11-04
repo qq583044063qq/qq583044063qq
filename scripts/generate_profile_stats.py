@@ -6,6 +6,7 @@ from datetime import date, datetime, timedelta, timezone
 from html import escape
 import json
 import os
+import re
 from pathlib import Path
 import time
 from urllib.error import HTTPError, URLError
@@ -14,6 +15,8 @@ from urllib.request import Request, urlopen
 
 USER = os.environ.get("PROFILE_USER", "qq583044063qq")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
+PRIVATE_TOKEN = os.environ.get("PROFILE_STATS_TOKEN", "")
+INCLUDE_PRIVATE = os.environ.get("PROFILE_INCLUDE_PRIVATE", "false").lower() in ("1", "true", "yes")
 OUTPUT = Path("assets/stats")
 NOW = datetime.now(timezone.utc)
 STAMP = NOW.strftime("%Y-%m-%d %H:%M UTC")
@@ -27,14 +30,15 @@ BLUE = "#79c0ff"
 PINK = "#f778ba"
 
 
-def request_json(url, payload=None):
+def request_json(url, payload=None, auth_token=None):
     headers = {
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "github-profile-stats-svg",
     }
-    if TOKEN:
-        headers["Authorization"] = f"Bearer {TOKEN}"
+    token = TOKEN if auth_token is None else auth_token
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
     if payload is not None:
         headers["Content-Type"] = "application/json"
     req = Request(url, data=json.dumps(payload).encode("utf-8") if payload is not None else None,
@@ -53,8 +57,8 @@ def request_json(url, payload=None):
     raise RuntimeError("Unreachable API retry state")
 
 
-def rest(path):
-    return request_json("https://api.github.com" + path)
+def rest(path, auth_token=None):
+    return request_json("https://api.github.com" + path, auth_token=auth_token)
 
 
 def fetch_calendar():
@@ -91,16 +95,40 @@ def get_repositories():
     return repositories
 
 
-def language_totals(repositories):
+def get_private_repositories():
+    """Only inspect private repos explicitly made available to a read-only PAT."""
+    if not INCLUDE_PRIVATE:
+        return []
+    if not PRIVATE_TOKEN:
+        raise RuntimeError("PROFILE_INCLUDE_PRIVATE=true requires the PROFILE_STATS_TOKEN repository secret")
+    me = rest("/user", auth_token=PRIVATE_TOKEN)
+    if me.get("login", "").lower() != USER.lower():
+        raise RuntimeError("PROFILE_STATS_TOKEN must belong to the GitHub profile owner")
+    repositories = []
+    for page in range(1, 11):
+        batch = rest(f"/user/repos?visibility=private&affiliation=owner&per_page=100&page={page}",
+                     auth_token=PRIVATE_TOKEN)
+        repositories.extend(repo for repo in batch
+                            if repo.get("private") and repo.get("owner", {}).get("login", "").lower() == USER.lower()
+                            and not repo.get("fork"))
+        if len(batch) < 100:
+            break
+    print(f"Authorized private repositories included in language statistics: {len(repositories)}")
+    return repositories
+
+
+def language_totals(public_repositories, private_repositories):
     totals = Counter()
-    for repo in repositories:
+    for repo in public_repositories + private_repositories:
         if repo.get("archived"):
             continue
-        try:
-            langs = rest(f"/repos/{quote(repo['full_name'], safe='/')}/languages")
-            totals.update({lang: int(size) for lang, size in langs.items()})
-        except (RuntimeError, KeyError, ValueError) as exc:
-            print(f"Warning: language stats unavailable for {repo.get('full_name')}: {exc}")
+        path = f"/repos/{quote(repo['full_name'], safe='/')}/languages"
+        # Never silently omit a private repository: partial results are misleading.
+        if repo.get("private"):
+            langs = rest(path, auth_token=PRIVATE_TOKEN)
+        else:
+            langs = rest(path)
+        totals.update({lang: int(size) for lang, size in langs.items()})
     return totals
 
 
@@ -154,7 +182,9 @@ LANG_COLORS = {
 
 
 def lang_card(languages):
-    parts = base_svg(560, 288, "Top Languages", "GitHub language bytes  |  Public non-fork repositories")
+    subtitle = ("GitHub language bytes  |  Public + authorized private repositories"
+                if INCLUDE_PRIVATE else "GitHub language bytes  |  Public non-fork repositories")
+    parts = base_svg(560, 288, "Top Languages", subtitle)
     total = sum(languages.values())
     ranked = languages.most_common(6)
     if not total:
@@ -169,7 +199,8 @@ def lang_card(languages):
             parts.append(label(535, y-2, f"{percent:.1f}%", size=12, color=WHITE, anchor="end"))
             parts.append(f'<rect x="24" y="{y+3}" width="511" height="5" rx="2.5" fill="#30363d"/>')
             parts.append(f'<rect x="24" y="{y+3}" width="{max(2, 511 * percent / 100):.1f}" height="5" rx="2.5" fill="{color}"/>')
-    parts.append(label(24, 273, f"Updated {STAMP}  |  Private repositories not included", size=10))
+    privacy = "Private repo language totals included (no repo names shown)" if INCLUDE_PRIVATE else "Private repositories not included"
+    parts.append(label(24, 273, f"Updated {STAMP}  |  {privacy}", size=10))
     finish(parts, OUTPUT / "top-langs.svg")
 
 
@@ -196,16 +227,35 @@ def activity_card(calendar):
     finish(parts, OUTPUT / "activity-graph.svg")
 
 
+def update_readme_image_versions():
+    """Change image URLs whenever SVGs update so GitHub re-fetches instead of caching Pending cards."""
+    path = Path("README.md")
+    md = path.read_text(encoding="utf-8")
+    version = NOW.strftime("%Y%m%d%H%M%S")
+    for label, name in (("Top Languages", "top-langs"),
+                        ("GitHub Stats", "github-stats"),
+                        ("Contribution Activity", "activity-graph")):
+        pattern = re.compile(r"(!\[" + re.escape(label) + r"\]\(\./assets/stats/" +
+                             name + r"\.svg)(?:\?v=[^)]*)?(\))")
+        md, count = pattern.subn(lambda m: f"{m.group(1)}?v={version}{m.group(2)}", md)
+        if count != 1:
+            raise RuntimeError(f"README must include exactly one image entry for {name}.svg (found {count})")
+    path.write_text(md, encoding="utf-8")
+    print("README image URLs refreshed; WakaTime section left untouched")
+
+
 def main():
     if not TOKEN:
         raise SystemExit("GITHUB_TOKEN is required. Run with GitHub Actions secrets.GITHUB_TOKEN.")
     profile = rest(f"/users/{quote(USER)}")
-    repos = get_repositories()
-    languages = language_totals(repos)
+    public_repos = get_repositories()
+    private_repos = get_private_repositories()
+    languages = language_totals(public_repos, private_repos)
     calendar, contributions = fetch_calendar()
-    stat_card(profile, repos, contributions)
+    stat_card(profile, public_repos, contributions)
     lang_card(languages)
     activity_card(calendar)
+    update_readme_image_versions()
 
 
 if __name__ == "__main__":
