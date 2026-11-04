@@ -29,8 +29,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: qq583044063qq
-          # Repository variable PROFILE_INCLUDE_PRIVATE: true / false
-          PROFILE_INCLUDE_PRIVATE: ${{ vars.PROFILE_INCLUDE_PRIVATE || 'false' }}
+          # Include all accessible private repositories by default. Set repo variable to false to opt out.
+          PROFILE_INCLUDE_PRIVATE: ${{ vars.PROFILE_INCLUDE_PRIVATE || 'true' }}
           # Fine-grained PAT (Metadata: read) with selected private repos
           PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
         run: python scripts/generate_profile_stats.py
