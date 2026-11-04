@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-stats-generator
+  group: profile-readme-updates
   cancel-in-progress: false
 
 jobs:
@@ -18,24 +18,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: true
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - name: Generate GitHub SVG cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: qq583044063qq
+          # Repository variable PROFILE_INCLUDE_PRIVATE: true / false
+          PROFILE_INCLUDE_PRIVATE: ${{ vars.PROFILE_INCLUDE_PRIVATE || 'false' }}
+          # Fine-grained PAT (Metadata: read) with selected private repos
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
         run: python scripts/generate_profile_stats.py
       - name: Commit generated SVG cards
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats/*.svg
+          git add assets/stats/*.svg README.md
           if git diff --cached --quiet; then
             echo "No changes detected"
             exit 0

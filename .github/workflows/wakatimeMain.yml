@@ -1,33 +1,55 @@
-
 name: Waka Readme
 
 on:
   schedule:
-    # 每天北京时间 02:30 执行
+    # Beijing / Singapore 02:30 (UTC 18:30)
     - cron: '30 18 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Same group as profile-stats.yml to avoid simultaneous README writes.
+concurrency:
+  group: profile-readme-updates
+  cancel-in-progress: false
+
 jobs:
   update-readme:
-    name: Readme with Metrics
+    name: Generate WakaTime SVG cards
     runs-on: ubuntu-latest
-
     steps:
-      - name: Update WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - name: Checkout
+        uses: actions/checkout@v5
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          persist-credentials: true
 
-          SHOW_PROJECTS: "False"
-          SHOW_COMMIT: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
+      - name: Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Generate WakaTime dashboard
+        env:
+          # Prefer the dedicated OAuth secret; fallback for users who replaced the old secret value.
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_OAUTH_TOKEN || secrets.WAKATIME_API_KEY }}
+        run: python scripts/generate_wakatime_cards.py
+
+      - name: Commit WakaTime SVG and README
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/wakatime-*.svg README.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh WakaTime dashboard [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then exit 0; fi
+            sleep $((attempt * 3))
+          done
+          echo "Failed pushing generated WakaTime dashboard" >&2
+          exit 1
