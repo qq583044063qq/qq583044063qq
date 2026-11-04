@@ -16,7 +16,7 @@ from urllib.request import Request, urlopen
 USER = os.environ.get("PROFILE_USER", "qq583044063qq")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 PRIVATE_TOKEN = os.environ.get("PROFILE_STATS_TOKEN", "")
-INCLUDE_PRIVATE = os.environ.get("PROFILE_INCLUDE_PRIVATE", "false").lower() in ("1", "true", "yes")
+INCLUDE_PRIVATE = os.environ.get("PROFILE_INCLUDE_PRIVATE", "true").lower() in ("1", "true", "yes")
 OUTPUT = Path("assets/stats")
 NOW = datetime.now(timezone.utc)
 STAMP = NOW.strftime("%Y-%m-%d %H:%M UTC")
@@ -125,7 +125,15 @@ def language_totals(public_repositories, private_repositories):
         path = f"/repos/{quote(repo['full_name'], safe='/')}/languages"
         # Never silently omit a private repository: partial results are misleading.
         if repo.get("private"):
-            langs = rest(path, auth_token=PRIVATE_TOKEN)
+            try:
+                langs = rest(path, auth_token=PRIVATE_TOKEN)
+            except RuntimeError:
+                # GitHub error URLs may contain private repository names.
+                # Do not disclose those names in public CI job logs.
+                raise RuntimeError(
+                    "Private repository language retrieval failed: "
+                    "verify PROFILE_STATS_TOKEN's selected repositories and Metadata: read permission"
+                ) from None
         else:
             langs = rest(path)
         totals.update({lang: int(size) for lang, size in langs.items()})
