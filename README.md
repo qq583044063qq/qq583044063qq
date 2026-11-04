@@ -1,23 +1,36 @@
 # Hello
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FDE&width=435&lines=Ciallo%ef%bd%9e(%e2%88%a0%e3%83%bb%cf%89%3c+)%e2%8c%92%e2%98%85)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FDE&width=435&lines=Ciallo%ef%bd%9e(%e2%88%a0%e3%83%bb%cf%89%3c+)%e2%8c%92%e2%98%85)](https://git.io/typing-svg)
+### 🎮 Steam Status
 
-![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198221796636&show_in_game_bg=true&show_recent_game_bg=true&animated_avatar=true)
+![Steam Status](https://github-readme-steam-card.vercel.app/status/?steamid=76561198221796636&show_in_game_bg=true&show_recent_game_bg=false&animated_avatar=false)
 
-![:name](https://count.getloli.com/get/@hk416?theme=rule34)
+### 👀 Visitors
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qq583044063qq&locale=cn&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+![Visitors](https://count.getloli.com/get/@hk416?theme=rule34)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qq583044063qq&count_private=true&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=qq583044063qq&locale=zh_Hans)](https://git.io/streak-stats)
+![Top Languages](./assets/stats/top-langs.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qq583044063qq)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](./assets/stats/github-stats.svg)
 
-![B站status](https://stats.justsong.cn/api/bilibili/?id=3931848&lang=zh-CN)
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=qq583044063qq&locale=zh_Hans)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### 📈 Recent Contribution Activity
+
+![Contribution Activity](./assets/stats/activity-graph.svg)
+
+### 📺 Bilibili
+
+![Bilibili Stats](https://stats.justsong.cn/api/bilibili/?id=3931848&lang=zh-CN)
 
 <!--![xx](xx.gif)-->
+
+### ⏱ Coding Statistics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C034%20hrs%205%20mins-blue?style=flat)
@@ -49,8 +62,8 @@
 Python                   8 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.06 % 
 C#                       4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
 Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+JSON                     1 hr 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
 Visual Studio            16 hrs 38 mins      █████████████████████░░░░   85.49 % 
@@ -75,7 +88,7 @@ Windows                  19 hrs 27 mins      ███████████�
 🧠 13 AI Sessions, 76 AI Prompts
 
 GPT                      10,902 lines        █████████████████████████   100.00 % 
-Visualstudio             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Visualstudio             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.89% of written lines came from AI
