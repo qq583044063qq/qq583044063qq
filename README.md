@@ -12,9 +12,9 @@
 
 ### 📊 GitHub Statistics
 
-![Top Languages](./assets/stats/top-langs.svg?v=20261104022313)
+![Top Languages](./assets/stats/top-langs.svg?v=20261105002336)
 
-![GitHub Stats](./assets/stats/github-stats.svg?v=20261104022313)
+![GitHub Stats](./assets/stats/github-stats.svg?v=20261105002336)
 
 ### 🔥 Contribution Streak
 
@@ -22,7 +22,7 @@
 
 ### 📈 Recent Contribution Activity
 
-![Contribution Activity](./assets/stats/activity-graph.svg?v=20261104022313)
+![Contribution Activity](./assets/stats/activity-graph.svg?v=20261105002336)
 
 ### 📺 Bilibili
 
