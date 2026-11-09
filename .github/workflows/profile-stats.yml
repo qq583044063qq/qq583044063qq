@@ -34,6 +34,11 @@ jobs:
           # Fine-grained PAT (Metadata: read) with selected private repos
           PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
         run: python scripts/generate_profile_stats.py
+      - name: Generate local GitHub Streak SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: qq583044063qq
+        run: python scripts/generate_streak_stats.py
       - name: Commit generated SVG cards
         shell: bash
         run: |
