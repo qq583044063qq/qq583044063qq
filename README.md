@@ -33,9 +33,9 @@
 ### ⏱ Coding Statistics
 
 <!--START_SECTION:waka-->
-![WakaTime Coding Dashboard](./assets/stats/wakatime-overview.svg?v=202611082217)
+![WakaTime Coding Dashboard](./assets/stats/wakatime-overview.svg?v=202611100140)
 
-![WakaTime Weekly Breakdown](./assets/stats/wakatime-breakdown.svg?v=202611082217)
+![WakaTime Weekly Breakdown](./assets/stats/wakatime-breakdown.svg?v=202611100140)
 <!--END_SECTION:waka-->
 
 [个人网站](https://blog.ayatsukinora.org.cn)
