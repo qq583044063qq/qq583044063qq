@@ -8,7 +8,7 @@
 <text x="24" y="63" font-family="Arial,Verdana,sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#8b949e">GitHub contribution calendar  |  rolling 12 months</text>
 <rect x="24" y="82" width="280" height="107" rx="10" fill="#161b22" stroke="#283344"/>
 <text x="42" y="107" font-family="Arial,Verdana,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#8b949e">CURRENT STREAK</text>
-<text x="42" y="162" font-family="Arial,Verdana,sans-serif" font-size="42" font-weight="700" text-anchor="start" fill="#ffa657">1</text>
+<text x="42" y="162" font-family="Arial,Verdana,sans-serif" font-size="42" font-weight="700" text-anchor="start" fill="#ffa657">0</text>
 <text x="170" y="162" font-family="Arial,Verdana,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#8b949e">days</text>
 <rect x="310" y="82" width="280" height="107" rx="10" fill="#161b22" stroke="#283344"/>
 <text x="328" y="107" font-family="Arial,Verdana,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#8b949e">LONGEST STREAK (12 MO)</text>
@@ -42,13 +42,13 @@
 <rect x="637" y="204" width="14" height="14" rx="3" fill="#30363d"/>
 <rect x="658" y="204" width="14" height="14" rx="3" fill="#30363d"/>
 <rect x="679" y="204" width="14" height="14" rx="3" fill="#30363d"/>
-<rect x="700" y="204" width="14" height="14" rx="3" fill="#30363d"/>
-<rect x="721" y="204" width="14" height="14" rx="3" fill="#ffa657"/>
+<rect x="700" y="204" width="14" height="14" rx="3" fill="#ffa657"/>
+<rect x="721" y="204" width="14" height="14" rx="3" fill="#30363d"/>
 <rect x="742" y="204" width="14" height="14" rx="3" fill="#30363d"/>
 <rect x="763" y="204" width="14" height="14" rx="3" fill="#30363d"/>
 <rect x="784" y="204" width="14" height="14" rx="3" fill="#30363d"/>
-<rect x="805" y="204" width="14" height="14" rx="3" fill="#30363d"/>
-<rect x="826" y="204" width="14" height="14" rx="3" fill="#f778ba"/>
+<rect x="805" y="204" width="14" height="14" rx="3" fill="#f778ba"/>
+<rect x="826" y="204" width="14" height="14" rx="3" fill="#30363d"/>
 <rect x="847" y="204" width="14" height="14" rx="3" fill="#30363d"/>
-<text x="24" y="245" font-family="Arial,Verdana,sans-serif" font-size="10" font-weight="400" text-anchor="start" fill="#8b949e">Updated 2026-11-10 02:10 UTC  |  Today may count after GitHub refreshes</text>
+<text x="24" y="245" font-family="Arial,Verdana,sans-serif" font-size="10" font-weight="400" text-anchor="start" fill="#8b949e">Updated 2026-11-11 00:04 UTC  |  Today may count after GitHub refreshes</text>
 </svg>
