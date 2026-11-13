@@ -5,44 +5,44 @@
 <text x="42" y="45" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" text-anchor="start" fill="#e6edf3">WakaTime  /  Weekly Breakdown</text>
 <text x="25" y="69" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#9da9bd">LANGUAGES, EDITORS &amp; OPERATING SYSTEMS  ·  Last 7 days</text>
 <rect x="24" y="417" width="852" height="1" fill="#273548"/>
-<text x="26" y="431" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#9da9bd">WakaTime  |  2026-11-12 23:43 UTC</text>
+<text x="26" y="431" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" text-anchor="start" fill="#9da9bd">WakaTime  |  2026-11-13 23:44 UTC</text>
 <text x="27" y="102" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#e6edf3">Programming languages</text>
 <text x="27" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">C#</text>
-<text x="437" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">12h 02m  ·  51.3%</text>
+<text x="437" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">12h 30m  ·  50.9%</text>
 <rect x="27" y="147" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="27" y="147" width="210.5" height="7" rx="3.5" fill="#79c0ff"/>
+<rect x="27" y="147" width="208.5" height="7" rx="3.5" fill="#79c0ff"/>
 <text x="27" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">JSON</text>
-<text x="437" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">2h 51m  ·  12.2%</text>
+<text x="437" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">3h 12m  ·  13.0%</text>
 <rect x="27" y="194" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="27" y="194" width="49.9" height="7" rx="3.5" fill="#f778ba"/>
+<rect x="27" y="194" width="53.4" height="7" rx="3.5" fill="#f778ba"/>
 <text x="27" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">Python</text>
-<text x="437" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">2h 25m  ·  10.3%</text>
+<text x="437" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">2h 25m  ·  9.8%</text>
 <rect x="27" y="241" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="27" y="241" width="42.2" height="7" rx="3.5" fill="#d2a8ff"/>
+<rect x="27" y="241" width="40.3" height="7" rx="3.5" fill="#d2a8ff"/>
 <text x="27" y="278" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">Markdown</text>
-<text x="437" y="278" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">2h 08m  ·  9.1%</text>
+<text x="437" y="278" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">1h 55m  ·  7.8%</text>
 <rect x="27" y="288" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="27" y="288" width="37.4" height="7" rx="3.5" fill="#56d364"/>
-<text x="27" y="325" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">JavaScript</text>
-<text x="437" y="325" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">58m  ·  4.1%</text>
+<rect x="27" y="288" width="31.8" height="7" rx="3.5" fill="#56d364"/>
+<text x="27" y="325" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">Binary</text>
+<text x="437" y="325" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">1h 00m  ·  4.0%</text>
 <rect x="27" y="335" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="27" y="335" width="16.9" height="7" rx="3.5" fill="#ffa657"/>
+<rect x="27" y="335" width="16.6" height="7" rx="3.5" fill="#ffa657"/>
 <text x="469" y="102" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#e6edf3">Editors / IDEs</text>
 <text x="469" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">Visual Studio</text>
-<text x="879" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">20h 02m  ·  85.5%</text>
+<text x="879" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">21h 10m  ·  86.1%</text>
 <rect x="469" y="147" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="469" y="147" width="350.3" height="7" rx="3.5" fill="#79c0ff"/>
+<rect x="469" y="147" width="353.1" height="7" rx="3.5" fill="#79c0ff"/>
 <text x="469" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">Codex Vscode</text>
-<text x="879" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">2h 04m  ·  8.8%</text>
+<text x="879" y="184" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">2h 04m  ·  8.4%</text>
 <rect x="469" y="194" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="469" y="194" width="36.2" height="7" rx="3.5" fill="#f778ba"/>
+<rect x="469" y="194" width="34.5" height="7" rx="3.5" fill="#f778ba"/>
 <text x="469" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">VS Code</text>
-<text x="879" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">1h 21m  ·  5.7%</text>
+<text x="879" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">1h 21m  ·  5.5%</text>
 <rect x="469" y="241" width="410" height="7" rx="3.5" fill="#293649"/>
-<rect x="469" y="241" width="23.5" height="7" rx="3.5" fill="#d2a8ff"/>
+<rect x="469" y="241" width="22.4" height="7" rx="3.5" fill="#d2a8ff"/>
 <text x="469" y="295" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#e6edf3">Operating systems</text>
 <text x="469" y="330" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#e6edf3">Windows</text>
-<text x="879" y="330" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">23h 26m  ·  100.0%</text>
+<text x="879" y="330" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#9da9bd">24h 35m  ·  100.0%</text>
 <rect x="469" y="340" width="410" height="7" rx="3.5" fill="#293649"/>
 <rect x="469" y="340" width="410.0" height="7" rx="3.5" fill="#79c0ff"/>
 </svg>
