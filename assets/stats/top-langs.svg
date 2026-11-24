@@ -6,33 +6,33 @@
 <text x="24" y="63" font-family="Verdana,Arial,sans-serif" font-size="11" fill="#8b949e">GitHub language bytes  |  Public + authorized private repositories</text>
 <rect x="24" y="78" width="9" height="9" rx="2" fill="#9b4f96"/>
 <text x="40" y="87" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#e6edf3">C#</text>
-<text x="535" y="87" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">45.7%</text>
+<text x="535" y="87" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">45.8%</text>
 <rect x="24" y="92" width="511" height="5" rx="2.5" fill="#30363d"/>
-<rect x="24" y="92" width="233.5" height="5" rx="2.5" fill="#9b4f96"/>
+<rect x="24" y="92" width="234.1" height="5" rx="2.5" fill="#9b4f96"/>
 <rect x="24" y="107" width="9" height="9" rx="2" fill="#f1e05a"/>
 <text x="40" y="116" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#e6edf3">JavaScript</text>
-<text x="535" y="116" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">42.0%</text>
+<text x="535" y="116" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">41.8%</text>
 <rect x="24" y="121" width="511" height="5" rx="2.5" fill="#30363d"/>
-<rect x="24" y="121" width="214.8" height="5" rx="2.5" fill="#f1e05a"/>
+<rect x="24" y="121" width="213.8" height="5" rx="2.5" fill="#f1e05a"/>
 <rect x="24" y="136" width="9" height="9" rx="2" fill="#3178c6"/>
 <text x="40" y="145" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#e6edf3">TypeScript</text>
-<text x="535" y="145" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">4.8%</text>
+<text x="535" y="145" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">4.9%</text>
 <rect x="24" y="150" width="511" height="5" rx="2.5" fill="#30363d"/>
-<rect x="24" y="150" width="24.3" height="5" rx="2.5" fill="#3178c6"/>
+<rect x="24" y="150" width="24.8" height="5" rx="2.5" fill="#3178c6"/>
 <rect x="24" y="165" width="9" height="9" rx="2" fill="#56d364"/>
 <text x="40" y="174" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#e6edf3">Vue</text>
 <text x="535" y="174" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">2.9%</text>
 <rect x="24" y="179" width="511" height="5" rx="2.5" fill="#30363d"/>
-<rect x="24" y="179" width="14.7" height="5" rx="2.5" fill="#56d364"/>
+<rect x="24" y="179" width="14.6" height="5" rx="2.5" fill="#56d364"/>
 <rect x="24" y="194" width="9" height="9" rx="2" fill="#e34c26"/>
 <text x="40" y="203" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#e6edf3">HTML</text>
-<text x="535" y="203" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">2.7%</text>
+<text x="535" y="203" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">2.6%</text>
 <rect x="24" y="208" width="511" height="5" rx="2.5" fill="#30363d"/>
-<rect x="24" y="208" width="13.6" height="5" rx="2.5" fill="#e34c26"/>
+<rect x="24" y="208" width="13.5" height="5" rx="2.5" fill="#e34c26"/>
 <rect x="24" y="223" width="9" height="9" rx="2" fill="#563d7c"/>
 <text x="40" y="232" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#e6edf3">CSS</text>
 <text x="535" y="232" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="end" fill="#e6edf3">1.4%</text>
 <rect x="24" y="237" width="511" height="5" rx="2.5" fill="#30363d"/>
-<rect x="24" y="237" width="7.4" height="5" rx="2.5" fill="#563d7c"/>
-<text x="24" y="273" font-family="Verdana,Arial,sans-serif" font-size="10" font-weight="400" text-anchor="start" fill="#8b949e">Updated 2026-11-23 00:19 UTC  |  Private repo language totals included (no repo names shown)</text>
+<rect x="24" y="237" width="7.3" height="5" rx="2.5" fill="#563d7c"/>
+<text x="24" y="273" font-family="Verdana,Arial,sans-serif" font-size="10" font-weight="400" text-anchor="start" fill="#8b949e">Updated 2026-11-24 04:18 UTC  |  Private repo language totals included (no repo names shown)</text>
 </svg>
